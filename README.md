@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @yinuowenzan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me . yinuowenzan@outlook.com
+- 1ii 你好,这是一个展示页.
+- 2ii 我喜欢很多有趣的东西,比如东方projec和c#,不太喜欢python那种对中文不方便的语言.
+- 3ii 我正在接触一些长久的计算机语言,但很遗憾的,没有什么语言长久,包括汇编,各个语言特长不一,没有什么一而始终.
+- 4ii 我希望能碰见好的开源,但我对于支付有着难度,就算喜欢开源,但对于一盘散沙没什么好感.
+- 5ii How to reach me . yinuowenzan@outlook.com and "iss"
 - 结束？
-
-<!---
-yinuowen/yinuowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
